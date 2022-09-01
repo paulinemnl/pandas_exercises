@@ -1,3 +1,5 @@
+I use this repo to practice my Pandas skills. All credit goes to guipsamora/pandas_exercises.
+
 # Pandas Exercises
 
 Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
